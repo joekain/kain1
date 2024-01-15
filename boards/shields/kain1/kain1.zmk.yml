@@ -4,6 +4,7 @@ name: Kain1
 type: shield
 url: https://github.com/joekain/narfkb2
 requires: [pro_micro]
+exposes: [i2c_oled]
 features:
   - keys
 siblings:
